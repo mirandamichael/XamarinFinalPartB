@@ -1,0 +1,13 @@
+C:\Users\Michael\Documents\Projects\androidApplicationFinal\androidApplicationFinal\obj\Debug\assemblies\androidApplicationFinal.dll
+C:\Users\Michael\Documents\Projects\androidApplicationFinal\androidApplicationFinal\obj\Debug\assemblies\Mono.Android.dll
+C:\Users\Michael\Documents\Projects\androidApplicationFinal\androidApplicationFinal\obj\Debug\assemblies\mscorlib.dll
+C:\Users\Michael\Documents\Projects\androidApplicationFinal\androidApplicationFinal\obj\Debug\assemblies\System.Core.dll
+C:\Users\Michael\Documents\Projects\androidApplicationFinal\androidApplicationFinal\obj\Debug\assemblies\System.dll
+C:\Users\Michael\Documents\Projects\androidApplicationFinal\androidApplicationFinal\obj\Debug\assemblies\System.Xml.dll
+C:\Users\Michael\Documents\Projects\androidApplicationFinal\androidApplicationFinal\obj\Debug\assemblies\Xamarin.Android.Support.v13.dll
+C:\Users\Michael\Documents\Projects\androidApplicationFinal\androidApplicationFinal\obj\Debug\assemblies\Xamarin.Android.Support.v4.dll
+C:\Users\Michael\Documents\Projects\androidApplicationFinal\androidApplicationFinal\obj\Debug\assemblies\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\Michael\Documents\Projects\androidApplicationFinal\androidApplicationFinal\obj\Debug\assemblies\Xamarin.Insights.dll
+C:\Users\Michael\Documents\Projects\androidApplicationFinal\androidApplicationFinal\obj\Debug\assemblies\System.Runtime.Serialization.dll
+C:\Users\Michael\Documents\Projects\androidApplicationFinal\androidApplicationFinal\obj\Debug\assemblies\System.ServiceModel.Internals.dll
+C:\Users\Michael\Documents\Projects\androidApplicationFinal\androidApplicationFinal\obj\Debug\assemblies\System.Net.Http.dll

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/linearLayout1">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="29.0dp"
+        android:id="@+id/resultTextView"
+        android:layout_marginBottom="13.0dp" />
+    <EditText
+        android:inputType="number"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/number1" />
+    <EditText
+        android:inputType="number"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/number2" />
+    <Button
+        android:id="@+id/addition"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="+" />
+    <Button
+        android:text="-"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/subtraction" />
+    <Button
+        android:text="/"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/division" />
+    <Button
+        android:text="x"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/multiplication" />
+</LinearLayout>

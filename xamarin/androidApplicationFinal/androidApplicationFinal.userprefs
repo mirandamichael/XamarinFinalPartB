@@ -1,0 +1,33 @@
+﻿<Properties StartupItem="androidApplicationFinal\androidApplicationFinal.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.Xamarin_Android_API_15" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="androidApplicationFinal\Resources\values\Strings.xml">
+    <Files>
+      <File FileName="androidApplicationFinal\MainActivity.cs" Line="60" Column="3" />
+      <File FileName="androidApplicationFinal\Resources\values\Strings.xml" Line="3" Column="52" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="androidApplicationFinal" expanded="True">
+            <Node name="androidApplicationFinal" expanded="True">
+              <Node name="Packages" expanded="True" />
+              <Node name="Assets" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="Resources" expanded="True">
+                <Node name="layout" expanded="True" />
+                <Node name="values" expanded="True">
+                  <Node name="Strings.xml" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.androidApplicationFinal AndroidDesignerPreferredDevice="Nexus 4" />
+</Properties>
